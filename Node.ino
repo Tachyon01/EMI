@@ -5,7 +5,7 @@
 SoftwareSerial NodeMCU(D2,D3);
 
 #define FIREBASE_HOST "test-68a20.firebaseio.com/"                          // the project name address from firebase id
-#define FIREBASE_AUTH "AIzaSyBOOesjV0a8E4wu3E9jGLvi2QmTimXZhPs "                                           //Your API key   
+#define FIREBASE_AUTH "xxx "                                           //Your API key   
 
 #define WIFI_SSID "Tachyon"                                             // input your home or public wifi name void setup() {
 #define WIFI_PASSWORD "bepa8139"                                    //password of wifi ssid
